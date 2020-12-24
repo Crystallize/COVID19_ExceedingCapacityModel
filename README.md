@@ -19,3 +19,21 @@ Josephine Robertson (Health & Care Actuary, Optum)
 Dan Ryan (Chief Science Officer at COIOS Research)									
 Scott Reid (Global Protection Pricing & Product Development Actuary, Zurich)									
 James Robinson (UK & Ireland Business Strategy and Analytics, Aon Benfield)									
+
+Nottingham Universities Hospital Trust
+Joe West (Professor of Epidemiology; Honorary Consultant Gastroenterologist, Faculty of Medicine & Health Sciences Nottingham University)
+Richard Hubbard (GSK/British Lung Foundation Professor of Respiratory Epidemiology, Faculty of Medicine & Health Sciences)
+Tim Card (Clinical Associate Professor, Nottingham Biomedical Research Centre)
+Colin Crooks (Clinical Associate Professor, Nottingham Biomedical Research Centre)
+Nina Lewis (Consultant Gastroenterologist, Nottingham University NHS Trust)
+Andrew Fogarty (Clinical Associate Professor & Reader in Clinical Epidemiology, Faculty of Medicine & Health Sciences)
+Andrew Marshall (Deputy Medical Director at Nottingham University Hospitals)
+De Beer Thearina (Consultant in Anaesthetics and ICM at Nottingham University Hospitals NHS Trust)
+Dominic Shaw (Professor and Honorary Consultant, Faculty of Medicine & Health Sciences)
+Emma O’Dowd (Honorary Consultant Assistant Professor, University of Nottingham)
+Andrew Baraclough (Assistant Director of Insight, Nottingham University Hospitals NHS Trust)
+
+Crystallise
+Shannon Connolly, Analyst at Crystallise
+Dr Will Letton, Consultant Analyst at Crystallise Ltd 
+Dr Louisa Rutherford
