@@ -17,7 +17,7 @@ The authors acknowledgfe assistance and advice from the following people.\
 Josephine Robertson (Health & Care Actuary, Optum)\
 Dan Ryan (Chief Science Officer at COIOS Research)\
 Scott Reid (Global Protection Pricing & Product Development Actuary, Zurich)\
-James Robinson (UK & Ireland Business Strategy and Analytics, Aon Benfield)\
+James Robinson (UK & Ireland Business Strategy and Analytics, Aon Benfield)
 
 ### Nottingham Universities Hospital Trust
 Joe West (Professor of Epidemiology; Honorary Consultant Gastroenterologist, Faculty of Medicine & Health Sciences Nottingham University)\
