@@ -5,8 +5,8 @@ The model is a series of static compartmental models that estimates the number o
 The model was developed as an Excel workbook. This was chosen as it allows rapid iteration and development with transparency for other developers and reviewers as it is a widely available platform. This paper should be read with reference to the Excel workbook available via the GitHub link above.
 
 ## Principal authors		Role							
-Stuart McDonald		Head of Demographic Assumptions and Methodology at Lloyds Banking Group							
-Chris Martin 		Director of Modelling at Crystallise 							
+Stuart McDonald		Head of Demographic Assumptions and Methodology at Lloyds Banking Group	\						
+Chris Martin 		Director of Modelling at Crystallise 	\						
 Steve Bale		Senior Actuary at Munich Re							
 Michiel Luteijn		Biometric Research Data Specialist at Hannover Re							
 Rahul Sarkar		Consultant Physician in Respiratory Medicine 7 Critical Care at Medway NHS Foundation Trust							
