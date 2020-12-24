@@ -20,7 +20,7 @@ Dan Ryan (Chief Science Officer at COIOS Research)
 Scott Reid (Global Protection Pricing & Product Development Actuary, Zurich)									
 James Robinson (UK & Ireland Business Strategy and Analytics, Aon Benfield)									
 
-Nottingham Universities Hospital Trust
+### Nottingham Universities Hospital Trust
 Joe West (Professor of Epidemiology; Honorary Consultant Gastroenterologist, Faculty of Medicine & Health Sciences Nottingham University)
 Richard Hubbard (GSK/British Lung Foundation Professor of Respiratory Epidemiology, Faculty of Medicine & Health Sciences)
 Tim Card (Clinical Associate Professor, Nottingham Biomedical Research Centre)
@@ -33,7 +33,7 @@ Dominic Shaw (Professor and Honorary Consultant, Faculty of Medicine & Health Sc
 Emma O’Dowd (Honorary Consultant Assistant Professor, University of Nottingham)
 Andrew Baraclough (Assistant Director of Insight, Nottingham University Hospitals NHS Trust)
 
-Crystallise
+### Crystallise
 Shannon Connolly, Analyst at Crystallise
 Dr Will Letton, Consultant Analyst at Crystallise Ltd 
 Dr Louisa Rutherford
