@@ -6,18 +6,18 @@ The model was developed as an Excel workbook. This was chosen as it allows rapid
 
 ## Principal authors		Role							
 Stuart McDonald		Head of Demographic Assumptions and Methodology at Lloyds Banking Group\
-Chris Martin 		Director of Modelling at Crystallise\  	
-Steve Bale		Senior Actuary at Munich Re\  							
-Michiel Luteijn		Biometric Research Data Specialist at Hannover Re\  							
-Rahul Sarkar		Consultant Physician in Respiratory Medicine 7 Critical Care at Medway NHS Foundation Trust\  							
+Chris Martin 		Director of Modelling at Crystallise\
+Steve Bale		Senior Actuary at Munich Re\				
+Michiel Luteijn		Biometric Research Data Specialist at Hannover Re\
+Rahul Sarkar		Consultant Physician in Respiratory Medicine 7 Critical Care at Medway NHS Foundation Trust\
 																		
 ## Acknowledgements									
-The authors acknowledgfe assistance and advice from the following people.\									
-### Institute and Faculty of Actuaries\									
-Josephine Robertson (Health & Care Actuary, Optum)\									
-Dan Ryan (Chief Science Officer at COIOS Research)\									
-Scott Reid (Global Protection Pricing & Product Development Actuary, Zurich)\									
-James Robinson (UK & Ireland Business Strategy and Analytics, Aon Benfield)\									
+The authors acknowledgfe assistance and advice from the following people.\
+### Institute and Faculty of Actuaries									
+Josephine Robertson (Health & Care Actuary, Optum)\
+Dan Ryan (Chief Science Officer at COIOS Research)\
+Scott Reid (Global Protection Pricing & Product Development Actuary, Zurich)\
+James Robinson (UK & Ireland Business Strategy and Analytics, Aon Benfield)\
 
 ### Nottingham Universities Hospital Trust
 Joe West (Professor of Epidemiology; Honorary Consultant Gastroenterologist, Faculty of Medicine & Health Sciences Nottingham University)\
@@ -34,5 +34,5 @@ Andrew Baraclough (Assistant Director of Insight, Nottingham University Hospital
 
 ### Crystallise
 Shannon Connolly, Analyst at Crystallise\
-Dr Will Letton, Consultant Analyst at Crystallise Ltd\ 
+Dr Will Letton, Consultant Analyst at Crystallise Ltd\
 Dr Louisa Rutherford
