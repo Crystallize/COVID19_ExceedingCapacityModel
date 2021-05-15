@@ -12,7 +12,7 @@ Michiel Luteijn		Biometric Research Data Specialist at Hannover Re\
 Rahul Sarkar		Consultant Physician in Respiratory Medicine 7 Critical Care at Medway NHS Foundation Trust\
 																		
 ## Acknowledgements									
-The authors acknowledgfe assistance and advice from the following people.\
+The authors acknowledge assistance and advice from the following people.\
 ### Institute and Faculty of Actuaries									
 Josephine Robertson (Health & Care Actuary, Optum)\
 Dan Ryan (Chief Science Officer at COIOS Research)\
